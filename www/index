@@ -110,11 +110,11 @@
 				}
 			</script>
 
-      <body>
+  
   <div style="position:fixed;inset:0;background:black;color:lime;font-size:32px;display:flex;align-items:center;justify-content:center;z-index:999999;">
     WIDGET SHELL ONLINE – v3
   </div>
-</body>
+
 		 <div class="layer svelte-13mfg2y" style="width: 1368px; height: 340px; "><div class="background bg_bridge svelte-fv55rs" style="filter: saturate(1); transform: translate(0px); z-index: 101;"></div>  <div class="background overlay_cross svelte-fv55rs" style="transform: translate(0px, 0px); z-index: 102;"></div>  <div class="h-full flex flex-col gap-0 relative overflow-hidden" style="font-family: HC Sinclair; font-size: 16px; line-height: 22px;"> <div class="outer page svelte-xdh2dc" style=" 
      transform: translate(0px, 82px);
      width:1368px;height:194px;min-width:1368px;min-height:194px;max-width:1368px;max-height:194px;
